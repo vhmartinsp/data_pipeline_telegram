@@ -33,7 +33,7 @@ Execução do Lambda Handler:
 O lambda_handler recebe as mensagens do Telegram, verifica se foram produzidas no chat especificado e as armazena no AWS S3.
 Execução do ETL:
 
-O lambda_handler também executa uma etapa de ETL diária.
+Através do lambda_handler temos a exeção uma etapa de ETL diária.
 Compacta as mensagens JSON do dia anterior em um único arquivo Parquet e armazena-o em um bucket separado.
 Data Wrangling:
 
