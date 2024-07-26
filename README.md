@@ -69,7 +69,7 @@ Segurança:
 
 É crucial armazenar com segurança e evitar a exposição de informações confidenciais, como tokens de acesso e chaves de API, no código-fonte ou em repositórios públicos.
 
-
+[EN/US]
 Project: Telegram integration with AWS S3
 
 Features:
